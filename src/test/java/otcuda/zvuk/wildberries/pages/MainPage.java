@@ -1,9 +1,9 @@
-package tests.wildberries.pages;
+package otcuda.zvuk.wildberries.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
-import tests.BasePage;
+import otcuda.zvuk.BasePage;
 import tests.junit5.ui.pageObject.BasePage;
 
 

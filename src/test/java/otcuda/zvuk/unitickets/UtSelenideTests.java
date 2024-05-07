@@ -1,10 +1,10 @@
-package tests.unitickets;
+package otcuda.zvuk.unitickets;
 
 import com.codeborne.selenide.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import tests.unitickets.pages.UtMainPage;
-import tests.unitickets.pages.UtMainSelenidePage;
+import otcuda.zvuk.unitickets.pages.UtMainPage;
+import otcuda.zvuk.unitickets.pages.UtMainSelenidePage;
 
 import static com.codeborne.selenide.Selenide.$$x;
 import static com.codeborne.selenide.Selenide.$x;

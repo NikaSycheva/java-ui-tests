@@ -1,4 +1,4 @@
-package tests.threadqa;
+package otcuda.zvuk.threadqa;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import lombok.SneakyThrows;

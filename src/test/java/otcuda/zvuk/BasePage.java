@@ -1,4 +1,4 @@
-package tests;
+package otcuda.zvuk;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;

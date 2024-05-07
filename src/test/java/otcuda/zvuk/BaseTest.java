@@ -1,4 +1,4 @@
-package tests;
+package otcuda.zvuk;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.jupiter.api.AfterEach;

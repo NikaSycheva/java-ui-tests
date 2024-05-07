@@ -1,4 +1,4 @@
-package tests.stepik;
+package otcuda.zvuk.stepik;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Selenide;
@@ -8,7 +8,7 @@ import io.restassured.http.Cookies;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Cookie;
-import tests.stepik.models.StepikAuthModel;
+import otcuda.zvuk.stepik.models.StepikAuthModel;
 
 import java.util.*;
 

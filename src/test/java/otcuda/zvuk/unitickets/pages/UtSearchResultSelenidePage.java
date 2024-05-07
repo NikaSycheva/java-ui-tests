@@ -1,4 +1,4 @@
-package tests.unitickets.pages;
+package otcuda.zvuk.unitickets.pages;
 
 
 import com.codeborne.selenide.CollectionCondition;

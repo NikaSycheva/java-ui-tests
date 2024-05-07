@@ -1,9 +1,9 @@
-package tests.wildberries.pages;
+package otcuda.zvuk.wildberries.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import tests.BasePage;
+import otcuda.zvuk.BasePage;
 
 import java.util.Arrays;
 import java.util.List;

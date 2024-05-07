@@ -1,14 +1,12 @@
-package tests.unitickets;
+package otcuda.zvuk.unitickets;
 
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import tests.BaseTest;
-import tests.unitickets.pages.UtMainPage;
-import tests.unitickets.pages.UtMainSelenidePage;
-import tests.unitickets.pages.UtSearchResultPage;
-import tests.unitickets.pages.UtSearchResultSelenidePage;
+import otcuda.zvuk.BaseTest;
+import otcuda.zvuk.unitickets.pages.UtMainPage;
+import otcuda.zvuk.unitickets.pages.UtSearchResultPage;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package tests.herokuapp;
+package otcuda.zvuk.herokuapp;
 
 import lombok.SneakyThrows;
 import org.junit.jupiter.api.AfterEach;

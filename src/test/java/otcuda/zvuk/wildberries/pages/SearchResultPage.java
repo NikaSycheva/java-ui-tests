@@ -1,6 +1,6 @@
-package tests.wildberries.pages;
+package otcuda.zvuk.wildberries.pages;
 import org.openqa.selenium.*;
-import tests.BasePage;
+import otcuda.zvuk.BasePage;
 
 
 public class SearchResultPage extends BasePage {

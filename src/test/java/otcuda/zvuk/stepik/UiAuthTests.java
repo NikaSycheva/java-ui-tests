@@ -1,4 +1,4 @@
-package tests.stepik;
+package otcuda.zvuk.stepik;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Selenide;

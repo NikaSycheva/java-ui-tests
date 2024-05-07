@@ -1,4 +1,4 @@
-package tests.stepik.models;
+package otcuda.zvuk.stepik.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

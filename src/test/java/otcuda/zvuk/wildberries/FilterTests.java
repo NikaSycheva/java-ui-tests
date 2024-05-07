@@ -1,12 +1,12 @@
-package tests.wildberries;
+package otcuda.zvuk.wildberries;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
-import tests.BaseTest;
-import tests.wildberries.pages.ItemPage;
-import tests.wildberries.pages.MainPage;
+import otcuda.zvuk.BaseTest;
+import otcuda.zvuk.wildberries.pages.ItemPage;
+import otcuda.zvuk.wildberries.pages.MainPage;
 
 import java.util.List;
 

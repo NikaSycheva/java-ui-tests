@@ -1,4 +1,4 @@
-package tests.threadqa;
+package otcuda.zvuk.threadqa;
 
 import com.codeborne.pdftest.PDF;
 import com.codeborne.selenide.Selenide;

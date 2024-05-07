@@ -7,7 +7,7 @@ plugins {
     id("io.qameta.allure") version "2.11.2"
 }
 
-group = "org.example"
+group = "otcuda.zvuk"
 version = "1.0-SNAPSHOT"
 
 repositories {

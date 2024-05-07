@@ -1,10 +1,11 @@
-package tests.unitickets.pages;
+package otcuda.zvuk.unitickets.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 import java.util.List;
-import tests.BasePage;
+
+import otcuda.zvuk.BasePage;
 
 
 public class UtSearchResultPage extends BasePage {
